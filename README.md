@@ -9,4 +9,5 @@ moves.
 
 ![2](https://github.com/grzeniux/Connect_four/assets/125094104/f9a78d9b-b832-4d42-ba93-68cabcaafb64)
 ![3](https://github.com/grzeniux/Connect_four/assets/125094104/1cd2787f-c1ed-4997-8007-89df2b2bbbee)
+
 ![4](https://github.com/grzeniux/Connect_four/assets/125094104/dc130610-5358-4697-a7d8-0730274d9820)
